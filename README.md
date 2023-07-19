@@ -22,6 +22,7 @@ source venv/Scripts/activate
 ***- Установите зависимости из файла requirements.txt:***
 ```
 pip install -r requirements.txt
+```
 
 ***- Как запустить парсер:***
 - для MacOS
